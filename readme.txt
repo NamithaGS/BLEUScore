@@ -1,4 +1,11 @@
-Instructions to run the program:
+# BLEU Score
+
+Introduction
+------------
+BLEU (bilingual evaluation understudy) is an algorithm for evaluating the quality of text which has been machine-translated from one natural language to another. 
+
+Instructions to run the program
+--------------------------------
 
 python calculatebleu.py /path/to/candidate /path/to/reference
 
