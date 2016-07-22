@@ -51,6 +51,7 @@ def lengthoftext(list1):
 
 
 #compute brevity penality from r and c
+
 def computebrevitypenalty(r,c):
     bp = 0.0
     if ( c > r):
